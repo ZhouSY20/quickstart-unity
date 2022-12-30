@@ -14,10 +14,9 @@ Feel free to [contact us](https://docs.banuba.com/face-ar-sdk-v1/support) if you
 
 ### Getting Started
 
-1. Clone the repository
-2. Copy and Past BanubaSDK/Assets/StreamingAssets and Copy and Past BanubaSDK/Assets/Plugins to the quickstart-unity/Assets/ folder.
-3. Put your Client Token to the [Assets/BanubaFaceAR/BaseAssets/Resources/BanubaClientToken.txt](Assets/BanubaFaceAR/BaseAssets/Resources/BanubaClientToken.txt)
-4. Open the MinimalScene or the SampleScene and click Run.
+1. Get the latest project archive [here](https://drive.google.com/drive/folders/1-EtNoTfVJiytSzBbq_zK62MqAUdZ3DAY?_hsmi=236953657&_hsenc=p2ANqtz-9lgAsmyRTuzZx-NIe_6-d5RAixDFPBID06VMJCxn0XndSQiiUjeIrSpYignvRjzsRm9WNMhTwZ3Re_kI9KfwEEftc6Pw)
+2. Put your Client Token to the [Assets/BanubaFaceAR/BaseAssets/Resources/BanubaClientToken.txt](Assets/BanubaFaceAR/BaseAssets/Resources/BanubaClientToken.txt)
+3. Open the MinimalScene or the SampleScene and click Run.
 
 ### Docs
 You can find more info [here](https://docs.banuba.com/face-ar-sdk-v1/unity/unity_getting_started)
