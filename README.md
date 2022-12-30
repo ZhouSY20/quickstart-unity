@@ -14,7 +14,7 @@ Feel free to [contact us](https://docs.banuba.com/face-ar-sdk-v1/support) if you
 
 ### Getting Started
 
-1. Get the latest project archive [here](https://drive.google.com/drive/folders/1-EtNoTfVJiytSzBbq_zK62MqAUdZ3DAY?_hsmi=236953657&_hsenc=p2ANqtz-9lgAsmyRTuzZx-NIe_6-d5RAixDFPBID06VMJCxn0XndSQiiUjeIrSpYignvRjzsRm9WNMhTwZ3Re_kI9KfwEEftc6Pw)
+1. Get the latest project archive [here](https://drive.google.com/drive/folders/1-EtNoTfVJiytSzBbq_zK62MqAUdZ3DAY?usp=share_link)
 2. Put your Client Token to the [Assets/BanubaFaceAR/BaseAssets/Resources/BanubaClientToken.txt](Assets/BanubaFaceAR/BaseAssets/Resources/BanubaClientToken.txt)
 3. Open the Assets/BanubaFaceAR/Demo/BanubaSDKDemo scene and click Run.
 
